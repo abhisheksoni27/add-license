@@ -1,0 +1,29 @@
+{
+  "name": "add-license",
+  "version": "0.0.1",
+  "description": "Add license text to all your JS files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhisheksoni27/add-license.git"
+  },
+  "keywords": [
+    "license",
+    "add",
+    "license",
+    "all",
+    "mit",
+    "mit",
+    "license",
+    "add"
+  ],
+  "author": "Abhishek Soni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhisheksoni27/add-license/issues"
+  },
+  "homepage": "https://github.com/abhisheksoni27/add-license#readme"
+}
