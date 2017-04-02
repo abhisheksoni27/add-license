@@ -1,6 +1,8 @@
 # add-license
 A CL utility to add `License` text to all your **JS** files.
 
+[![npm](https://img.shields.io/npm/dm/add-license.svg?style=flat-square)](https://www.npmjs.com/package/add-license)
+
 ## Table of contents
 
 * [Installation](#installation)
