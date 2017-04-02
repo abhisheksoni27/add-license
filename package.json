@@ -1,11 +1,12 @@
 {
   "name": "add-license",
   "version": "0.0.1",
-  "description": "Add license text to all your JS files.",
+  "description": "Add License text to all your JS files.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": { "add-license" : "./index.js" },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/abhisheksoni27/add-license.git"
